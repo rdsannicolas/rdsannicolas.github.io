@@ -10,3 +10,7 @@ My career is that of a product specialist; i've specialized in Microsoft Exchang
 
 
 Personal hobbies include CrossFit workouts or playing my guitars.
+
+My other online links:
+* [GitHub](http://github.com/rdsannicolas)
+* [LinkedIn](http://www.linkedin.com/in/roland-d-san-nicolas)
