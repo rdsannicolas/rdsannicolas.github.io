@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Roland San Nicolas (the last name has 2 words, like 'San Diego') and I live in Washington State.
+Hello! My name is Roland San Nicolas (the last name has 2 words, like 'San Francisco') and I live in Washington State.
 
 
 My career includes being a product specialist; i've specialized in Microsoft Exchange, CommVault Simpana, and EMC backup solutions including Data Domain and Avamar.
