@@ -3,11 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Hello! My name is Roland San Nicolas (the last name has 2 words, like 'San Francisco') and I live in Washington State.
-
-
-My career includes being a product specialist; i've specialized in Microsoft Exchange, CommVault Simpana, and EMC backup solutions including Data Domain and Avamar.
+Hello! My name is Roland San Nicolas (the last name has 2 words like 'San Francisco') and I live in Washington State.
 
 
-When i'm not working, i'm either working out at a CrossFit gym, or playing my guitars.
+My career is that of a product specialist; i've specialized in Microsoft Exchange, CommVault Simpana, and EMC backup solutions including Data Domain and Avamar.
+
+
+Personal hobbies include CrossFit workouts or playing my guitars.
