@@ -6,12 +6,12 @@
   <meta name="description" content="Roland D. San Nicolas - Cloud Infrastructure Engineer">
   <title>Roland D. San Nicolas | Cloud Infrastructure</title>
   <style>
-    :root { --accent: #0b5fff; --text: #1f2933; --muted: #5f6c7b; --bg: #f5f7fa; }
+    :root { --accent: #4da3ff; --text: #f2f4f8; --muted: #9aa5b1; --bg: #000; --panel: #0d0d0d; --tag: #14263d; }
     * { box-sizing: border-box; }
     body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
            color: var(--text); background: var(--bg); line-height: 1.6; }
-    main { max-width: 820px; margin: 2rem auto; padding: 2rem; background: #fff;
-           border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+    main { max-width: 820px; margin: 2rem auto; padding: 2rem; background: var(--panel);
+           border-radius: 8px; border: 1px solid #222; }
     header { border-bottom: 2px solid var(--accent); padding-bottom: 1rem; margin-bottom: 1.5rem; }
     h1 { margin: 0; font-size: 2rem; }
     .tagline { margin: .25rem 0 .75rem; color: var(--muted); font-size: 1.1rem; }
@@ -22,10 +22,10 @@
     .project, .job { margin-bottom: 1.25rem; }
     .project h3, .job h3 { margin: 0; font-size: 1.05rem; }
     .meta { color: var(--muted); font-size: .9rem; }
-    .tags span { display: inline-block; background: #e8f0fe; color: var(--accent);
+    .tags span { display: inline-block; background: var(--tag); color: var(--accent);
                  border-radius: 4px; padding: .1rem .5rem; margin: .25rem .25rem 0 0; font-size: .85rem; }
     ul { padding-left: 1.25rem; }
-    @media print { body { background: #fff; } main { box-shadow: none; margin: 0; } }
+    @media print { :root { --accent: #0b5fff; --text: #000; --muted: #444; --bg: #fff; --panel: #fff; --tag: #e8f0fe; } main { border: 0; margin: 0; } }
   </style>
 </head>
 <body>
